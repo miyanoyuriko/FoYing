@@ -1,0 +1,576 @@
+
+存储位置:C:\Users\hjq\Desktop\仏英500+
+存储位置:C:\Users\hjq\Desktop\仏英500+
+【存储设置】
+url列表逆序：是
+同名文件自动重命名：是
+保存HTML文件：是
+过滤热度（500)以下的作品
+【ERROR】https://www.lofter.com/tag/仏英?page=1 : Cannot connect to destination host
+读取第 1 页链接成功
+【ERROR】https://www.lofter.com/tag/仏英?page=2 : Cannot connect to destination host
+【ERROR】https://www.lofter.com/tag/仏英?page=2 : Cannot connect to destination host
+读取第 2 页链接成功
+读取第 3 页链接成功
+读取第 4 页链接成功
+读取第 5 页链接成功
+【ERROR】https://www.lofter.com/tag/仏英?page=6 : Cannot connect to destination host
+读取第 6 页链接成功
+读取第 7 页链接成功
+读取第 8 页链接成功
+读取第 9 页链接成功
+读取第 10 页链接成功
+读取第 11 页链接成功
+读取第 12 页链接成功
+读取第 13 页链接成功
+读取第 14 页链接成功
+读取第 15 页链接成功
+读取第 16 页链接成功
+读取第 17 页链接成功
+读取第 18 页链接成功
+读取第 19 页链接成功
+读取第 20 页链接成功
+读取第 21 页链接成功
+读取第 22 页链接成功
+读取第 23 页链接成功
+读取第 24 页链接成功
+读取第 25 页链接成功
+读取第 26 页链接成功
+读取第 27 页链接成功
+读取第 28 页链接成功
+读取第 29 页链接成功
+读取第 30 页链接成功
+读取第 31 页链接成功
+读取第 32 页链接成功
+读取第 33 页链接成功
+读取第 34 页链接成功
+读取第 35 页链接成功
+读取第 36 页链接成功
+读取第 37 页链接成功
+读取第 38 页链接成功
+读取第 39 页链接成功
+读取第 40 页链接成功
+读取第 41 页链接成功
+读取第 42 页链接成功
+读取第 43 页链接成功
+读取第 44 页链接成功
+读取第 45 页链接成功
+读取第 46 页链接成功
+读取第 47 页链接成功
+读取第 48 页链接成功
+读取第 49 页链接成功
+读取第 50 页链接成功
+读取第 51 页链接成功
+读取第 52 页链接成功
+读取第 53 页链接成功
+读取第 54 页链接成功
+读取第 55 页链接成功
+读取第 56 页链接成功
+读取第 57 页链接成功
+读取第 58 页链接成功
+读取第 59 页链接成功
+读取第 60 页链接成功
+读取第 61 页链接成功
+读取第 62 页链接成功
+读取第 63 页链接成功
+读取第 64 页链接成功
+读取第 65 页链接成功
+读取第 66 页链接成功
+读取第 67 页链接成功
+读取第 68 页链接成功
+读取第 69 页链接成功
+读取第 70 页链接成功
+读取第 71 页链接成功
+读取第 72 页链接成功
+读取第 73 页链接成功
+读取第 74 页链接成功
+读取第 75 页链接成功
+读取第 76 页链接成功
+读取第 77 页链接成功
+读取第 78 页链接成功
+读取第 79 页链接成功
+读取第 80 页链接成功
+读取第 81 页链接成功
+读取第 82 页链接成功
+读取第 83 页链接成功
+读取第 84 页链接成功
+读取第 85 页链接成功
+读取第 86 页链接成功
+读取第 87 页链接成功
+读取第 88 页链接成功
+读取第 89 页链接成功
+读取第 90 页链接成功
+读取第 91 页链接成功
+读取第 92 页链接成功
+读取第 93 页链接成功
+读取第 94 页链接成功
+读取第 95 页链接成功
+读取第 96 页链接成功
+读取第 97 页链接成功
+读取第 98 页链接成功
+读取第 99 页链接成功
+读取第 100 页链接成功
+读取第 101 页链接成功
+读取第 102 页链接成功
+读取第 103 页链接成功
+读取第 104 页链接成功
+读取第 105 页链接成功
+读取第 106 页链接成功
+读取第 107 页链接成功
+读取第 108 页链接成功
+读取第 109 页链接成功
+读取第 110 页链接成功
+读取第 111 页链接成功
+读取第 112 页链接成功
+读取第 113 页链接成功
+读取第 114 页链接成功
+读取第 115 页链接成功
+读取第 116 页链接成功
+读取第 117 页链接成功
+读取第 118 页链接成功
+读取第 119 页链接成功
+读取第 120 页链接成功
+读取第 121 页链接成功
+读取第 122 页链接成功
+读取第 123 页链接成功
+读取第 124 页链接成功
+读取第 125 页链接成功
+读取第 126 页链接成功
+读取第 127 页链接成功
+读取第 128 页链接成功
+读取第 129 页链接成功
+读取第 130 页链接成功
+读取第 131 页链接成功
+读取第 132 页链接成功
+读取第 133 页链接成功
+读取第 134 页链接成功
+读取第 135 页链接成功
+读取第 136 页链接成功
+读取第 137 页链接成功
+读取第 138 页链接成功
+读取第 139 页链接成功
+读取第 140 页链接成功
+读取第 141 页链接成功
+读取第 142 页链接成功
+读取第 143 页链接成功
+读取第 144 页链接成功
+读取第 145 页链接成功
+读取第 146 页链接成功
+读取第 147 页链接成功
+读取第 148 页链接成功
+读取第 149 页链接成功
+读取第 150 页链接成功
+读取第 151 页链接成功
+读取第 152 页链接成功
+读取第 153 页链接成功
+读取第 154 页链接成功
+读取第 155 页链接成功
+读取第 156 页链接成功
+读取第 157 页链接成功
+读取第 158 页链接成功
+读取第 159 页链接成功
+读取第 160 页链接成功
+读取第 161 页链接成功
+读取第 162 页链接成功
+读取第 163 页链接成功
+读取第 164 页链接成功
+读取第 165 页链接成功
+读取第 166 页链接成功
+读取第 167 页链接成功
+读取第 168 页链接成功
+读取第 169 页链接成功
+读取第 170 页链接成功
+读取第 171 页链接成功
+读取第 172 页链接成功
+读取第 173 页链接成功
+读取第 174 页链接成功
+读取第 175 页链接成功
+读取第 176 页链接成功
+读取第 177 页链接成功
+读取第 178 页链接成功
+读取第 179 页链接成功
+读取第 180 页链接成功
+读取第 181 页链接成功
+读取第 182 页链接成功
+读取第 183 页链接成功
+读取第 184 页链接成功
+读取第 185 页链接成功
+读取第 186 页链接成功
+读取第 187 页链接成功
+读取第 188 页链接成功
+读取第 189 页链接成功
+读取第 190 页链接成功
+读取第 191 页链接成功
+读取第 192 页链接成功
+读取第 193 页链接成功
+读取第 194 页链接成功
+读取第 195 页链接成功
+读取第 196 页链接成功
+读取第 197 页链接成功
+读取第 198 页链接成功
+读取第 199 页链接成功
+读取第 200 页链接成功
+读取第 201 页链接成功
+读取第 202 页链接成功
+读取第 203 页链接成功
+读取第 204 页链接成功
+读取第 205 页链接成功
+读取第 206 页链接成功
+读取第 207 页链接成功
+读取第 208 页链接成功
+读取第 209 页链接成功
+读取第 210 页链接成功
+读取第 211 页链接成功
+读取第 212 页链接成功
+读取第 213 页链接成功
+读取第 214 页链接成功
+读取第 215 页链接成功
+读取第 216 页链接成功
+读取第 217 页链接成功
+读取第 218 页链接成功
+读取第 219 页链接成功
+读取第 220 页链接成功
+读取第 221 页链接成功
+读取第 222 页链接成功
+读取第 223 页链接成功
+读取第 224 页链接成功
+读取第 225 页链接成功
+读取第 226 页链接成功
+读取第 227 页链接成功
+读取第 228 页链接成功
+读取第 229 页链接成功
+读取第 230 页链接成功
+读取第 231 页链接成功
+读取第 232 页链接成功
+读取第 233 页链接成功
+读取第 234 页链接成功
+读取第 235 页链接成功
+读取第 236 页链接成功
+读取第 237 页链接成功
+读取第 238 页链接成功
+读取第 239 页链接成功
+读取第 240 页链接成功
+读取第 241 页链接成功
+读取第 242 页链接成功
+读取第 243 页链接成功
+读取第 244 页链接成功
+读取第 245 页链接成功
+读取第 246 页链接成功
+读取第 247 页链接成功
+读取第 248 页链接成功
+读取第 249 页链接成功
+读取第 250 页链接成功
+读取第 251 页链接成功
+读取第 252 页链接成功
+读取第 253 页链接成功
+读取第 254 页链接成功
+读取第 255 页链接成功
+读取第 256 页链接成功
+读取第 257 页链接成功
+读取第 258 页链接成功
+读取第 259 页链接成功
+读取第 260 页链接成功
+读取第 261 页链接成功
+读取第 262 页链接成功
+读取第 263 页链接成功
+读取第 264 页链接成功
+读取第 265 页链接成功
+读取第 266 页链接成功
+读取第 267 页链接成功
+读取第 268 页链接成功
+读取第 269 页链接成功
+读取第 270 页链接成功
+读取第 271 页链接成功
+读取第 272 页链接成功
+读取第 273 页链接成功
+读取第 274 页链接成功
+读取第 275 页链接成功
+读取第 276 页链接成功
+读取第 277 页链接成功
+读取第 278 页链接成功
+读取第 279 页链接成功
+读取第 280 页链接成功
+读取第 281 页链接成功
+读取第 282 页链接成功
+读取第 283 页链接成功
+读取第 284 页链接成功
+读取第 285 页链接成功
+读取第 286 页链接成功
+读取第 287 页链接成功
+读取第 288 页链接成功
+读取第 289 页链接成功
+读取第 290 页链接成功
+存储文章地址
+存储图片地址文件
+读取文件：C:\Users\hjq\Desktop\仏英500+\ArticalUrlFile.txt
+【读取到 178 个链接】
+【存储设置】
+url列表逆序：是
+同名文件自动重命名：是
+保存HTML文件：是
+过滤热度（500)以下的作品
+创建新文件夹: needCheckUrl
+请在存储完成后确认文件夹中含有url的文档
+创建新文件夹: htmlData
+创建新文件夹: needCheckImg
+请在存储完成后确认文件夹中含有图片的文档
+【开始存储文档】
+【APH仏英】天生一对-松枝matsu : 存储成功
+【URL】【https://matsugae.lofter.com/post/41a2a3_6b6df45 】【【APH仏英】瓷婚 chapter.1～8（全文）-松枝matsu】
+【APH仏英】瓷婚 chapter.1～8（全文）-松枝matsu : 存储成功
+【APH仏英】四个婚礼和一个葬礼-松枝matsu : 存储成功
+【140字段子合集①为什么分了段】-零城R : 存储成功
+【URL】【https://sea-monsoon.lofter.com/post/305140_8128ed8 】【混乱关系&lt;ALL英&middot;R18&gt;-Monsoon】
+混乱关系&lt;ALL英&middot;R18&gt;-Monsoon : 存储成功
+【URL】【https://yujichuhan.lofter.com/post/1cac0cfe_870d5d7 】【风月俏佳人#联五#【上】-冬寂】
+风月俏佳人#联五#【上】-冬寂 : 存储成功
+【URL】【https://yujichuhan.lofter.com/post/1cac0cfe_873ab4c 】【风月俏佳人#联五#【下】-冬寂】
+风月俏佳人#联五#【下】-冬寂 : 存储成功
+【仏英】胡子-冷 流 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_925a908 】【文章整理-特寧紅】
+文章整理-特寧紅 : 存储成功
+【URL】【https://huwujiuqihu.lofter.com/post/1d7b842b_9657432 】【脑洞：黑塔的大家都是怎么交谈的呢？~-Hu伍玖柒hu】
+【IMG】【https://huwujiuqihu.lofter.com/post/1d7b842b_9657432 】【脑洞：黑塔的大家都是怎么交谈的呢？~-Hu伍玖柒hu】
+脑洞：黑塔的大家都是怎么交谈的呢？~-Hu伍玖柒hu : 存储成功
+【脑洞】听说你们喜欢地名梗-颜临歌 : 存储成功
+【URL】【https://fzw9770.lofter.com/post/1d04bafd_975a7a8 】【【联五】后宫&middot;联五传-颜临歌】
+【联五】后宫&middot;联五传-颜临歌 : 存储成功
+APH版猜成语-逝水墨痕 : 存储成功
+街头骗吻狂魔[AU短篇仏英-Nikkimars🧸🐥 : 存储成功
+第三次离婚和第四次结婚［dover.］短完.-Nikkimars🧸🐥 : 存储成功
+【段子】英国英国英国英国脱欧啦！！！-Nikotin : 存储成功
+如果同人文的标题这样起&hellip;&hellip;-木一_Wyn : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_b86aec1 】【【APH】Deal&#39;s a deal &ndash;&ndash; Betrayed  法米英-特寧紅】
+【APH】Deal&#39;s a deal &ndash;&ndash; Betrayed  法米英-特寧紅 : 存储成功
+【这里正文】彼得兔子和他的两个爸爸 [新大陆.dover]甜短完.-Nikkimars🧸🐥 : 存储成功
+【仏英】男朋友变成狗了怎么办-南辛 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_bb8d939 】【【APH】concupiscence  法英-特寧紅】
+【APH】concupiscence  法英-特寧紅 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_bf5f058 】【【APH】杜若子  英中心-特寧紅】
+【IMG】【https://ratouinchaos.lofter.com/post/1d4add01_bf5f058 】【【APH】杜若子  英中心-特寧紅】
+【APH】杜若子  英中心-特寧紅 : 存储成功
+La La Land   英中心-安气 : 存储成功
+你根本就不爱我！！！-☣塞伯坦会有硅基红娘吗🍩 : 存储成功
+【全职高手】我变小了要啪啪啪才能治好（心脏组）-晋太元中武陵人捕鱼为业 : 存储成功
+【URL】【https://pure93.lofter.com/post/1d569641_d1f54ab 】【国王游戏  恶友英-阿呆的透明泪】
+国王游戏  恶友英-阿呆的透明泪 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_d135fee 】【【APH】how DARE you  恶友英-特寧紅】
+【APH】how DARE you  恶友英-特寧紅 : 存储成功
+【APH】四次他亲他是意外，一次他亲他是两情相悦  法英-特寧紅 : 存储成功
+Four Men&rsquo;s Breakfast四个男人的早餐&lt;新大陆家族&gt;-Monsoon : 存储成功
+【APH段子】看，这我&ldquo;女朋友&rdquo;！【各国版.仏英.奥洪.亲子分.典芬.普爷奥娘.露中.土希】-启明星召集令 : 存储成功
+【仏英知乎体】喝了假酒是一种什么体验？-St.等伞 : 存储成功
+Marry you【Dover情人节贺.】-Nikkimars🧸🐥 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_ef1b860 】【【APH】LO. LEE. TA.   英中心-特寧紅】
+【APH】LO. LEE. TA.   英中心-特寧紅 : 存储成功
+【金毛仏x小奶猫英】TUMMY.-Nikkimars🧸🐥 : 存储成功
+【一更】我那令人痛恨的前夫. [dover灵魂互换,欢乐向-Nikkimars🧸🐥 : 存储成功
+【二更】我那令人痛恨的前夫.［灵魂互换，欢乐向-Nikkimars🧸🐥 : 存储成功
+【URL】【https://matsugae.lofter.com/post/41a2a3_fb27765 】【【APH仏英】告别 Chapter.1-松枝matsu】
+【APH仏英】告别 Chapter.1-松枝matsu : 存储成功
+【三更】我那令人痛恨的前夫.［dover灵魂互换-Nikkimars🧸🐥 : 存储成功
+【URL】【https://lichtlumia.lofter.com/post/1d56d09b_10c3569d 】【目录合集-Chantal.】
+目录合集-Chantal. : 存储成功
+【URL】【https://linlindoubi1203.lofter.com/post/1d233722_10e42299 】【亚瑟 柯克兰访谈  all英-安气】
+亚瑟 柯克兰访谈  all英-安气 : 存储成功
+现在的课代表都这么社会的吗？【全员多cp】-Mr.SEventeen : 存储成功
+【Dover】混球（全篇）-Nikkimars🧸🐥 : 存储成功
+现在的课代表都这么社会的吗？-Mr.SEventeen : 存储成功
+【SAMENAME】【https://sweetyagathe.lofter.com/post/1eac8fa2_1147106d 】【现在的课代表都这么社会的吗？-Mr.SEventeen】存在同名文件，已自动改名
+现在的课代表都这么社会的吗？-Mr.SEventeen : 存储成功
+【SAMENAME】【https://sweetyagathe.lofter.com/post/1eac8fa2_11538577 】【现在的课代表都这么社会的吗？-Mr.SEventeen】存在同名文件，已自动改名
+现在的课代表都这么社会的吗？-Mr.SEventeen : 存储成功
+【SAMENAME】【https://sweetyagathe.lofter.com/post/1eac8fa2_117e9c24 】【现在的课代表都这么社会的吗？-Mr.SEventeen】存在同名文件，已自动改名
+现在的课代表都这么社会的吗？-Mr.SEventeen : 存储成功
+【DOVER】狮子和鸡-Nikkimars🧸🐥 : 存储成功
+【dover】国旗内裤坠楼惨案-Nikkimars🧸🐥 : 存储成功
+【URL】【https://nikkimars.lofter.com/post/32f09a_11b22779 】【【六更】我那令人痛恨的前夫（dover.新大陆-Nikkimars🧸🐥】
+【六更】我那令人痛恨的前夫（dover.新大陆-Nikkimars🧸🐥 : 存储成功
+【APH】没钱，只好赔给你一辈子   仏英-特寧紅 : 存储成功
+离婚案件（新大陆家族）-不思鱼 : 存储成功
+[DOVER] HOW I MET YOUR FATHER.-Nikkimars🧸🐥 : 存储成功
+【IMG】【https://heidiyu.lofter.com/post/1d65260c_12063e53 】【法国和英格兰的五十个秘密&middot;上（一）-Ester】
+法国和英格兰的五十个秘密&middot;上（一）-Ester : 存储成功
+【IMG】【https://heidiyu.lofter.com/post/1d65260c_12091d79 】【法国和英格兰的五十个秘密&middot;上（二）-Ester】
+法国和英格兰的五十个秘密&middot;上（二）-Ester : 存储成功
+【国设法中心】绑架-隋劝 : 存储成功
+论和你的丈夫重归于好都需要什么？【仏英】-Mr.SEventeen : 存储成功
+【URL】【https://heidiyu.lofter.com/post/1d65260c_1227fcf6 】【【三次元】关于法国的言论（一）-Ester】
+【IMG】【https://heidiyu.lofter.com/post/1d65260c_1227fcf6 】【【三次元】关于法国的言论（一）-Ester】
+【三次元】关于法国的言论（一）-Ester : 存储成功
+【SAMENAME】【https://sweetyagathe.lofter.com/post/1eac8fa2_122a0b60 】【现在的课代表都这么社会的吗？-Mr.SEventeen】存在同名文件，已自动改名
+现在的课代表都这么社会的吗？-Mr.SEventeen : 存储成功
+【IMG】【https://heidiyu.lofter.com/post/1d65260c_122d13df 】【【三次元】关于法国的言论（二）-Ester】
+【三次元】关于法国的言论（二）-Ester : 存储成功
+【新大陆家族】家门不幸（轻松恶搞，一发完）-猫玩抹布 : 存储成功
+【URL】【https://sweetyagathe.lofter.com/post/1eac8fa2_1280a5fa 】【漂亮诗人【仏英】-Mr.SEventeen】
+漂亮诗人【仏英】-Mr.SEventeen : 存储成功
+家长见面会-不思鱼 : 存储成功
+【IMG】【https://heidiyu.lofter.com/post/1d65260c_12925c4c 】【【三次元】亚瑟的脑洞-Ester】
+【三次元】亚瑟的脑洞-Ester : 存储成功
+【Dover二战系列】单行列车-🕯️烛渐失控 : 存储成功
+饮食爱人【金钱+Dover】-Mr.SEventeen : 存储成功
+【URL】【https://nikkimars.lofter.com/post/32f09a_eea41dc6 】【【仏英】短发.-Nikkimars🧸🐥】
+【仏英】短发.-Nikkimars🧸🐥 : 存储成功
+【SAMENAME】【https://sweetyagathe.lofter.com/post/1eac8fa2_eee0c3e3 】【现在的课代表都这么社会的吗？-Mr.SEventeen】存在同名文件，已自动改名
+现在的课代表都这么社会的吗？-Mr.SEventeen : 存储成功
+【活体沙雕】亚瑟的眉毛出走了只剩下一根-魏也 : 存储成功
+【仏英】感情.-Nikkimars🧸🐥 : 存储成功
+OOC预警：一个骚过头的dover脑洞-Nikkimars🧸🐥 : 存储成功
+【仏英】Our Kid. -Nikkimars🧸🐥 : 存储成功
+【仏英】你见过亚瑟&middot;柯克兰喝醉的样子吗-Nikkimars🧸🐥 : 存储成功
+[DOVER] Said he.-Nikkimars🧸🐥 : 存储成功
+[沙雕dover+米] 土气服装小对决-Nikkimars🧸🐥 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_12d4133d9 】【【APH新大陆】阿尔弗雷德的父子相处之道-🕯️烛渐失控】
+【APH新大陆】阿尔弗雷德的父子相处之道-🕯️烛渐失控 : 存储成功
+你不知道【仏英】-Mr.SEventeen : 存储成功
+[ Dover 新大陆]开心乐园餐-蛰咕咕 : 存储成功
+【Dover】车载音响-Nikkimars🧸🐥 : 存储成功
+【APHDover】如果上帝说-🕯️烛渐失控 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_12dcf76fc 】【【APHDover】向一个英国人求婚的全部步骤-🕯️烛渐失控】
+【APHDover】向一个英国人求婚的全部步骤-🕯️烛渐失控 : 存储成功
+【APHDover】读恶评挑战（娱乐圈pa）-🕯️烛渐失控 : 存储成功
+【DOVER】出差的毛绒兔-Nikkimars🧸🐥 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_12e5086df 】【【APH仏英】关于成年人睡前会谈什么-🕯️烛渐失控】
+【APH仏英】关于成年人睡前会谈什么-🕯️烛渐失控 : 存储成功
+【IMG】【https://renxuan1122.lofter.com/post/1eaaf2f6_12e63ff27 】【黑塔利亚语句（差不多是应援语还有杂七杂八好句子）下-任一个宣】
+黑塔利亚语句（差不多是应援语还有杂七杂八好句子）下-任一个宣 : 存储成功
+[仏罗莎]私奔-Nikkimars🧸🐥 : 存储成功
+【URL】【https://matsugae.lofter.com/post/41a2a3_1c5c03a2c 】【无事生非   第一幕-松枝matsu】
+无事生非   第一幕-松枝matsu : 存储成功
+【Dover】撒娇-Nikkimars🧸🐥 : 存储成功
+【GO+APH】口是心非和言不由衷是上帝丢给英国人的诅咒-🕯️烛渐失控 : 存储成功
+旷日战争【仏英】-Mr.SEventeen : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c6198b54 】【【APHDover】出柜（上篇）-🕯️烛渐失控】
+【APHDover】出柜（上篇）-🕯️烛渐失控 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c61bc4b8 】【【APHDover】出柜（下篇）-🕯️烛渐失控】
+【APHDover】出柜（下篇）-🕯️烛渐失控 : 存储成功
+【APHDover】三个字的真话与五个字的谎言-🕯️烛渐失控 : 存储成功
+【仏诞企划1600】极无聊的一出幕间短剧&middot;169■-🕯️烛渐失控 : 存储成功
+又在摸Dover，口是心非真的-写不完了 : 存储成功
+［仏英］法兰西情人-写不完了 : 存储成功
+我眼中的dover和冷战-九月浮槎 : 存储成功
+【APHDover】用餐时禁止打情骂俏-🕯️烛渐失控 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c6c3329f 】【【APH恶友组】Love Me If You Dare（上）-🕯️烛渐失控】
+【APH恶友组】Love Me If You Dare（上）-🕯️烛渐失控 : 存储成功
+［仏英］亚瑟&middot;柯克兰船长流言一则-写不完了 : 存储成功
+【知乎体】父母的婚姻对你爱情观有什么影响-焦糖拿铁 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c6c6f259 】【【APH冷战组】不要惊醒冬眠的俄国佬-🕯️烛渐失控】
+【APH冷战组】不要惊醒冬眠的俄国佬-🕯️烛渐失控 : 存储成功
+【APH恶友组】Love Me If You Dare（中）-🕯️烛渐失控 : 存储成功
+【APH恶友组】Love Me If You Dare（下）-🕯️烛渐失控 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c6d467b7 】【【APHDover】关于法国人恋爱观念实践报告-🕯️烛渐失控】
+【IMG】【https://christglim.lofter.com/post/2b1e66_1c6d467b7 】【【APHDover】关于法国人恋爱观念实践报告-🕯️烛渐失控】
+【APHDover】关于法国人恋爱观念实践报告-🕯️烛渐失控 : 存储成功
+【APH新大陆】谋杀死者-🕯️烛渐失控 : 存储成功
+［仏英］眼泪-写不完了 : 存储成功
+【仏英 新大陆】洗碗机-驰名荼菜汤 : 存储成功
+【多cp】嬛学家-沅止 : 存储成功
+【Dover】就凭那件丑睡衣-Nikkimars🧸🐥 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c6ebe34c 】【【APH仏英】两小无猜-🕯️烛渐失控】
+【APH仏英】两小无猜-🕯️烛渐失控 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c6ef6227 】【【APHDover】幽灵吸血鬼同居逾五百年，&ldquo;双胞胎孤儿失踪案&rdquo;水落石出-🕯️烛渐失控】
+【APHDover】幽灵吸血鬼同居逾五百年，&ldquo;双胞胎孤儿失踪案&rdquo;水落石出-🕯️烛渐失控 : 存储成功
+【URL】【https://zhuoerkefu789.lofter.com/post/30f331a8_1c706ef87 】【【书单】APH脑洞和粮食相关书籍推荐-卓尔柯夫】
+【书单】APH脑洞和粮食相关书籍推荐-卓尔柯夫 : 存储成功
+【黑塔利亚新闻不知多少分】-尼勒岛 : 存储成功
+【SAMENAME】【https://niledao.lofter.com/post/30ea4b40_1c7220ef7 】【【黑塔利亚新闻不知多少分】-尼勒岛】存在同名文件，已自动改名
+【黑塔利亚新闻不知多少分】-尼勒岛 : 存储成功
+【URL】【https://ruomingxi.lofter.com/post/1ecb5947_1c72dff30 】【[APH仏英]小步舞曲-又又⚜️🏵️】
+[APH仏英]小步舞曲-又又⚜️🏵️ : 存储成功
+［仏英］下班后-写不完了 : 存储成功
+『联五』一票否决和武力否决-宇智波阿七 : 存储成功
+【APH仏英】恋爱质询-🕯️烛渐失控 : 存储成功
+［仏英］伊丽莎白养猫指南-写不完了 : 存储成功
+【APH】神已死 ｜ 英中心-特寧紅 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c77b8e93 】【【APHDover】他们争吵的一千零一个由头-🕯️烛渐失控】
+【IMG】【https://christglim.lofter.com/post/2b1e66_1c77b8e93 】【【APHDover】他们争吵的一千零一个由头-🕯️烛渐失控】
+【APHDover】他们争吵的一千零一个由头-🕯️烛渐失控 : 存储成功
+【URL】【https://ilovemrwang.lofter.com/post/1ef371e3_1c7840635 】【［仏英］经验之谈-写不完了】
+［仏英］经验之谈-写不完了 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c7b5bf41 】【【APH仏英】Love Sucks （上）-🕯️烛渐失控】
+【APH仏英】Love Sucks （上）-🕯️烛渐失控 : 存储成功
+【APH】某人接到了&times;&times;の电话-🌈呆嫂＿ : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c7cc3cf9 】【【APH仏英】Love Sucks（中）-🕯️烛渐失控】
+【APH仏英】Love Sucks（中）-🕯️烛渐失控 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c7d27edf 】【【APH仏英】Love Sucks （下）-🕯️烛渐失控】
+【APH仏英】Love Sucks （下）-🕯️烛渐失控 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c7f5fc9c 】【【APH仏英】为方便自己去巴黎piao就逼英法结婚的爱德华是屑上司-🕯️烛渐失控】
+【IMG】【https://christglim.lofter.com/post/2b1e66_1c7f5fc9c 】【【APH仏英】为方便自己去巴黎piao就逼英法结婚的爱德华是屑上司-🕯️烛渐失控】
+【APH仏英】为方便自己去巴黎piao就逼英法结婚的爱德华是屑上司-🕯️烛渐失控 : 存储成功
+厨房防爆指南-Nikkimars🧸🐥 : 存储成功
+【APHDover】愚人与裸者 I-🕯️烛渐失控 : 存储成功
+『知乎体』周围人的酒品都不好是怎样的体验-宇智波阿七 : 存储成功
+【联五】关于众人的印象-沅止 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c8097755 】【【APH仏英】关于阴天娃娃与太阳王子的故事-🕯️烛渐失控】
+【IMG】【https://christglim.lofter.com/post/2b1e66_1c8097755 】【【APH仏英】关于阴天娃娃与太阳王子的故事-🕯️烛渐失控】
+【APH仏英】关于阴天娃娃与太阳王子的故事-🕯️烛渐失控 : 存储成功
+【仏英露米】为期十年的浪漫主义-白温远了个隆冬强 : 存储成功
+假如你是黑塔利亚幼儿园老师-🎠HOSHIMIYA🎠 : 存储成功
+【仏英】千 杯 不 醉 柯 克 兰-沅止 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c83352ba 】【【APH仏英】三日谈-🕯️烛渐失控】
+【APH仏英】三日谈-🕯️烛渐失控 : 存储成功
+【法英】Speechless-Siri_ : 存储成功
+【URL】【https://frukbackupproject.lofter.com/post/3091b60f_1c83dfb7f 】【仏英图文补档计划-网站发布-仏英图文补档计划】
+【IMG】【https://frukbackupproject.lofter.com/post/3091b60f_1c83dfb7f 】【仏英图文补档计划-网站发布-仏英图文补档计划】
+仏英图文补档计划-网站发布-仏英图文补档计划 : 存储成功
+【APH恶友组】Love Me Like You Do （上）-🕯️烛渐失控 : 存储成功
+【URL】【https://shuiye602.lofter.com/post/1f8f7920_1c85d35d1 】【关于带娃（上）-水也】
+关于带娃（上）-水也 : 存储成功
+【娘塔】三个故事-沅止 : 存储成功
+【APH恶友组】Love Me Like You Do（中）-🕯️烛渐失控 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_1c872369b 】【【APH】情歌只在地狱回响  法英-特寧紅】
+【APH】情歌只在地狱回响  法英-特寧紅 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c87b123e 】【【APH仏英】咖啡致幻-🕯️烛渐失控】
+【IMG】【https://christglim.lofter.com/post/2b1e66_1c87b123e 】【【APH仏英】咖啡致幻-🕯️烛渐失控】
+【APH仏英】咖啡致幻-🕯️烛渐失控 : 存储成功
+【URL】【https://suqizhi029.lofter.com/post/1e5598c8_1c87ba080 】【文章整理及补档-苏起之】
+文章整理及补档-苏起之 : 存储成功
+【APH仏英】怦然心动-🕯️烛渐失控 : 存储成功
+【仏英】关系-沅止 : 存储成功
+【仏英露米】战时爱情-白温远了个隆冬强 : 存储成功
+王濠镜好难-沅止 : 存储成功
+【URL】【https://summerwines.lofter.com/post/1f5ecda4_1c89e33ee 】【【安利】仏英圈文手推荐+整理-寻找月亮】
+【安利】仏英圈文手推荐+整理-寻找月亮 : 存储成功
+假如国家们也要考试-🎠HOSHIMIYA🎠 : 存储成功
+现在的课代表都这么社会的吗【APH全员向】-Mr.SEventeen : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c8b95230 】【【APHDover】一天-🕯️烛渐失控】
+【IMG】【https://christglim.lofter.com/post/2b1e66_1c8b95230 】【【APHDover】一天-🕯️烛渐失控】
+【APHDover】一天-🕯️烛渐失控 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c8bae839 】【【Dover渣翻】The First One Hundred-🕯️烛渐失控】
+【Dover渣翻】The First One Hundred-🕯️烛渐失控 : 存储成功
+【URL】【https://10011011111.lofter.com/post/1f5ebff2_1c8bb92e3 】【【多cp】关于经典旧文的整理-仿生珍珠有电子常识吗】
+【多cp】关于经典旧文的整理-仿生珍珠有电子常识吗 : 存储成功
+仏英 《施以死刑》-驰名荼菜汤 : 存储成功
+Aph年度沙雕新闻-柳渊渊渊渊渊 : 存储成功
+『露米仏英』小崽子们又欺负你单身王爷爷是不是？-宇智波阿七 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c8c928ff 】【【APH仏英】办公室禁止doi-🕯️烛渐失控】
+【APH仏英】办公室禁止doi-🕯️烛渐失控 : 存储成功
+【仏英】愿上帝保佑法兰西厨子-菩提叶 : 存储成功
+【URL】【https://yibeisiwang.lofter.com/post/30ecb25b_1c8f54d16 】【【Dover】落俗诗人-水&middot;仏诞补链&middot;殇&middot;♞&middot;肆】
+【Dover】落俗诗人-水&middot;仏诞补链&middot;殇&middot;♞&middot;肆 : 存储成功
+【DOVER】优缺点便签-Nikkimars🧸🐥 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c9226e7f 】【车链全补档-🕯️烛渐失控】
+车链全补档-🕯️烛渐失控 : 存储成功
+【APH仏英】薄荷戒断-🕯️烛渐失控 : 存储成功
+【新大陆Dover】布里其大街午夜通话实录-水&middot;仏诞补链&middot;殇&middot;♞&middot;肆 : 存储成功
+死亡-沅止 : 存储成功
+【URL】【https://christglim.lofter.com/post/2b1e66_1c95600c9 】【【APHDover】假逃婚-🕯️烛渐失控】
+【APHDover】假逃婚-🕯️烛渐失控 : 存储成功
+在黑塔利亚里好好开会是否搞错了什么-令羽 : 存储成功
+［仏英］婚礼往事-写不完了 : 存储成功
+仏英 《流浪者之歌》-驰名荼菜汤 : 存储成功
+【dover冷战】我儿子爱上我闺蜜我该怎么办？-樱乃星河. : 存储成功
+【APH恶友组】Love Me Like You Do（下）（学趴恶友系列完结）-🕯️烛渐失控 : 存储成功
+【URL】【https://sweetyagathe.lofter.com/post/1eac8fa2_1c9a5099c 】【他们燃烧在布琼布拉【仏英】-Mr.SEventeen】
+他们燃烧在布琼布拉【仏英】-Mr.SEventeen : 存储成功
+【URL】【https://yibeisiwang.lofter.com/post/30ecb25b_1c9aa1eed 】【【Dover】禁止吻别-水&middot;仏诞补链&middot;殇&middot;♞&middot;肆】
+【IMG】【https://yibeisiwang.lofter.com/post/30ecb25b_1c9aa1eed 】【【Dover】禁止吻别-水&middot;仏诞补链&middot;殇&middot;♞&middot;肆】
+【Dover】禁止吻别-水&middot;仏诞补链&middot;殇&middot;♞&middot;肆 : 存储成功
+如何一句话毁掉设定这玩意根本写不成文啊-樱乃星河. : 存储成功
+【URL】【https://rusamefruk001yue5.lofter.com/post/20427905_1c9c59be6 】【APH漫画分享①-凤舞丹青】
+APH漫画分享①-凤舞丹青 : 存储成功
+【URL】【https://ruomingxi.lofter.com/post/1ecb5947_1c9d82df9 】【[APH仏英]失恋四十八小时-又又⚜️🏵️】
+[APH仏英]失恋四十八小时-又又⚜️🏵️ : 存储成功
+【2020仏诞企划1800】致马修&middot;威廉姆斯的一封信-写不完了 : 存储成功
+完成
